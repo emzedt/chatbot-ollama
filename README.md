@@ -1,7 +1,3 @@
-Tentu, ini draf `README.md` yang lengkap dengan panduan instalasi dan penggunaan untuk proyek chatbot Ollama Anda.
-
------
-
 # 🤖 Ollama Chatbot with Node.js
 
 Aplikasi web chatbot sederhana yang terintegrasi dengan **Ollama** untuk menjalankan Large Language Model (LLM) secara lokal di komputer Anda. Proyek ini dibangun menggunakan **Node.js**, **Express**, **EJS**, dan **Tailwind CSS**.
@@ -31,15 +27,14 @@ Ikuti langkah-langkah ini untuk menjalankan proyek secara lokal.
 Buka terminal atau Git Bash, lalu jalankan perintah berikut untuk meng-clone repositori ini.
 
 ```bash
-git clone https://github.com/emzedt/admin-page.git
+git clone https://github.com/emzedt/chatbot-ollama.git
 ```
 
-*(Catatan: Sesuaikan URL jika Anda menggunakan repositori yang berbeda)*
 
 ### 2\. Masuk ke Direktori Proyek
 
 ```bash
-cd admin-page
+cd chatbot-ollama
 ```
 
 ### 3\. Install Dependensi Node.js
